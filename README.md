@@ -1,4 +1,6 @@
-### Hi there 👋
+## I'm a code-slinging ninja with a passion for building cool things. I'm currently learning Java, so get ready for some world-changing Java apps from me soon!
+
+
 
 <!--
 **Tx-3011/Tx-3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
