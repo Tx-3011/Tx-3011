@@ -1,6 +1,4 @@
-###Heyoo
-
-## I'm a code-slinging ninja with a passion for building cool things. I'm currently learning Java, so get ready for some world-changing Java apps from me soon!
+I'm a code-slinging ninja 🥷 with a passion for building cool things 🚀. I'm currently learning Java ☕️, so get ready for some world-changing Java apps from me soon! 🌎
 
 
 
