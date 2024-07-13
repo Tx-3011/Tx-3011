@@ -16,11 +16,6 @@
 
 <br>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tx-3011&theme=gruvbox">
-</div>
-
-<br>
 
 <div align="center">
   <h2>🛠 Skill Stack</h2>
@@ -59,10 +54,10 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tx-3011&theme=gruvbox&exclude={exclude}">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tx-3011&theme=gruvbox&exclude={exclude}">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tx-3011&theme=gruvbox">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tx-3011&theme=gruvbox&utcOffset=5.5">
 </div>
+
+<hr>
 
 <br>
 
