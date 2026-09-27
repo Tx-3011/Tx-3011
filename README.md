@@ -1,4 +1,3 @@
----
 # Hi there, I'm Nookala Tejdeep 👋
 
 **Software Engineering Intern @ Siemens · B.Tech CSE '27 @ Manipal Institute of Technology, Bangalore**
