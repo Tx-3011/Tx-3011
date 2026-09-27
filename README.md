@@ -1,84 +1,66 @@
-<div align="center">
-  <h2>Heyo, This is Tejdeep <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-  
-  <p><b>CS Undergraduate</b> | <b>Security Analyst</b> | <b>Full Stack Dev</b> | <b>Java Dev</b></p>
-</div>
+---
+# Hi there, I'm Nookala Tejdeep 👋
 
+**Software Engineering Intern @ Siemens · B.Tech CSE '27 @ Manipal Institute of Technology, Bangalore**
 
-<div align="center">
-  <br>
-    
-  🔭 Deep into backend engineering and agentic AI — Python, React, Flask, Node.js, LLM integrations.<br>
-  💬 Open to all your questions.<br>
-  ⚡ Fun fact: Survived a 24-hour hackathon.<br>
-  📧 Connect with me on <a href="https://www.linkedin.com/in/tejdeepn/"><b>LinkedIn.</b></a>
-</div>
+I build backend systems and agentic AI workflows — LLM-powered automation, production-ready test frameworks, and ML-driven security tooling.
 
+---
 
-<br>
+## 🛠️ Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 
+## 🚀 Featured Projects
 
-<div align="center">
-  <h2>🛠 Skill Stack</h2>
-  
-  <table>
-    <tr>
-      <td><b>Frontend</b></td>
-      <td><b>Backend</b></td>
-      <td><b>Programming Languages</b></td>
-      <td><b>Cybersecurity</b></td>
-    </tr>
-    <tr>
-      <td>HTML, CSS, JavaScript, Figma (UI/UX)</td>
-      <td>Node.js, MongoDB, Express</td>
-      <td>Java, JavaScript</td>
-      <td>SIEM, NIST, Linux, SQL</td>
-    </tr>
-  </table>
-</div>
+| Project | What it does | Stack |
+| ------- | ------------ | ----- |
+| [**PhishShield**](https://github.com/Tx-3011/PhishShield) | Real-time phishing URL detection platform | Python, Flask, Gemini API, Google Safe Browsing |
+| [**Network Intrusion Detection System**](https://github.com/Tx-3011/network-intrusion-detection) | ML-based intrusion detection — 96% F1-score on 125,000+ traffic records | Python, Scikit-Learn, Random Forest |
+| [**Playwright Test Framework**](https://github.com/Tx-3011/playwright-test-sauce) | Production-ready E2E test framework (Page Object Model) with CI | TypeScript, Playwright, GitHub Actions |
 
+---
 
-<hr>
+## 💼 Experience
 
+**Software Engineering Intern — Siemens, Bangalore** *(2026 – Present)*
+- Building agentic AI pipelines to automate repetitive workflows across enterprise departments
+- Developing scalable backend automation by integrating LLMs, REST APIs, and internal enterprise systems
 
-<div align="center">
-  <h2>📜 Certifications</h2>
-  
-  <ul>
-    <li>Tools of the Trade: Linux and SQL</li>
-    <li>Connect and Protect: Networks and Network Security</li>
-    <li>Foundations of Cybersecurity</li>
-  </ul>
-</div>
+---
 
+## 📜 Certifications
 
-<hr>
+- **Tools of the Trade: Linux and SQL** — Google
+- **Connect and Protect: Networks and Network Security** — Google
+- **Foundations of Cybersecurity** — Google
 
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tx-3011&theme=dark">
-</div>
+## 📊 GitHub Stats
 
+![Tejdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tx-3011&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tx-3011&layout=compact)
 
-<hr>
+---
 
+## 📫 Connect with me
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tx-3011&theme=gruvbox&exclude={exclude}">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tx-3011&theme=gruvbox">
-</div>
-
-
-<hr>
-
-
-<br>
-
-
-<div align="center">
-  <a href="https://holopin.me/tx3011">
-    <img src="https://holopin.me/tx3011" alt="An image of @Tejdeep's Holopin badges, which is a link to view their full Holopin profile">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejdeepn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tejdeep.dev)
+---
