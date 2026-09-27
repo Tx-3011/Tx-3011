@@ -1,12 +1,17 @@
 # Hi there, I'm Nookala Tejdeep 👋
 
+
 **Software Engineering Intern @ Siemens · B.Tech CSE '27 @ Manipal Institute of Technology, Bangalore**
 
-I build backend systems and agentic AI workflows — LLM-powered automation, production-ready test frameworks, and ML-driven security tooling.
+
+I build backend systems, agentic AI workflows, and security tooling — LLM-powered automation, production-ready test frameworks, and ML-driven threat detection.
+
 
 ---
 
+
 ## 🛠️ Tech Stack
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,9 +28,12 @@ I build backend systems and agentic AI workflows — LLM-powered automation, pro
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
 ---
 
+
 ## 🚀 Featured Projects
+
 
 | Project | What it does | Stack |
 | ------- | ------------ | ----- |
@@ -33,33 +41,34 @@ I build backend systems and agentic AI workflows — LLM-powered automation, pro
 | [**Network Intrusion Detection System**](https://github.com/Tx-3011/network-intrusion-detection) | ML-based intrusion detection — 96% F1-score on 125,000+ traffic records | Python, Scikit-Learn, Random Forest |
 | [**Playwright Test Framework**](https://github.com/Tx-3011/playwright-test-sauce) | Production-ready E2E test framework (Page Object Model) with CI | TypeScript, Playwright, GitHub Actions |
 
+
 ---
 
+
 ## 💼 Experience
+
 
 **Software Engineering Intern — Siemens, Bangalore** *(2026 – Present)*
 - Building agentic AI pipelines to automate repetitive workflows across enterprise departments
 - Developing scalable backend automation by integrating LLMs, REST APIs, and internal enterprise systems
 
+
 ---
 
+
 ## 📜 Certifications
+
 
 - **Tools of the Trade: Linux and SQL** — Google
 - **Connect and Protect: Networks and Network Security** — Google
 - **Foundations of Cybersecurity** — Google
 
----
-
-## 📊 GitHub Stats
-
-![Tejdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tx-3011&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tx-3011&layout=compact)
 
 ---
+
 
 ## 📫 Connect with me
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejdeepn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tejdeep.dev)
----
